@@ -23,6 +23,7 @@ There are two kinds of piezo buzzers: active and passive. The active one that pl
 * [Hedwig's theme from Harry Potter](https://github.com/robsoncouto/arduino-songs/blob/master/harrypotter/harrypotter.ino)
 * [Star Wars theme](https://github.com/robsoncouto/arduino-songs/blob/master/starwars/starwars.ino)
 * [Pulo da gaita from the Brazilian Movie *O Auto da Compadecida*](https://github.com/robsoncouto/arduino-songs/blob/master/pulodagaita/pulodagaita.ino)
+* [Doraemon theme](https://github.com/brifeb/arduino-songs/blob/master/doraemon/doraemon.ino)
   
 ### Games
 
